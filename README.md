@@ -5,16 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4c8bf5&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Passionate+about+Building+Projects">
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/sainathbagade"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>
-&nbsp;&nbsp;
-<a href="https://fb.com/sainathbagade"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/sainathbagade"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40"/></a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
-</p>
-
 ---
 
 ### 🌟 About Me  
@@ -45,12 +35,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainathbagade&show_icons=true&locale=en&layout=compact" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sainathbagade&show_icons=true&locale=en" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathbagade&layout=compact&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sainathbagade&show_icons=true" height="150"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathbagade" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathbagade" height="170"/>
+</p>
+
+---
+
+<p align="center">
+<a href="https://linkedin.com/in/sainathbagade"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>
+&nbsp;&nbsp;
+<a href="https://fb.com/sainathbagade"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/sainathbagade"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40"/></a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
 </p>
 
 ---
@@ -58,3 +60,5 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sainathbagade&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+---
