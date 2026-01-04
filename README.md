@@ -27,7 +27,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 🧑‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
@@ -59,18 +59,17 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathbagade&layout=compact&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sainathbagade&show_icons=true" height="150"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sainathbagade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathbagade&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathbagade" height="170"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sainathbagade&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -91,3 +90,4 @@
 </p>
 
 ---
+
