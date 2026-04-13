@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.Tech Computer Engineering (Third Year)  
+- 🎓 B.Tech Computer Engineering   
 - 📊 CGPA: **8.55**  
 - 🌱 Actively building full-stack projects  
 - 🎯 Seeking internship & real-world project opportunities  
