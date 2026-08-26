@@ -29,16 +29,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 TrueStay  
-Vacation rental & booking platform with secure payments and authentication.
-
-### 🔹 EcoMinds  
-Gamified MERN learning platform with real-time leaderboards and notifications.
-
----
-
 ## 📫 Connect With Me
 - 🌐 **Portfolio:** https://portfolio-u49a.vercel.app  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sainath-bagade-892745330  
